@@ -1,5 +1,5 @@
 # RSA
-This repo summarized math behind RSA and broadcast RSA attack.
+This repo summarized math behind RSA and broadcast RSA attack.I've summarized this repo in the medium post following the [link](https://jl4730.medium.com/introduction-to-rsa-and-broadcast-rsa-attack-7c4104eb0669)
 
 # project_3_report.pdf
 This file is the report provided for "Project 3 Directions.pdf", which summarized the personal reflection of finishing the project.
